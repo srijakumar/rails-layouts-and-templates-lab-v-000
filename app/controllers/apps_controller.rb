@@ -1,4 +1,10 @@
 class AppsController < ApplicationController
+
+  def home
+    
+  end
+
+
   def new
   end
 
