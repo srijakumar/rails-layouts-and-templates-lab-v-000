@@ -1,7 +1,7 @@
 class StoreAdminController < ApplicationController
 
   def home
-    
+
   end
 
   def orders
@@ -9,7 +9,7 @@ class StoreAdminController < ApplicationController
   end
 
   def invoice
-    
+
   end
-  
+
 end
