@@ -13,7 +13,7 @@ layout 'admin'
 
 
   def invoice
-
+    render :layout => false
   end
 
 end
