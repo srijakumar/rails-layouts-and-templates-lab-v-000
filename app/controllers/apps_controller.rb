@@ -1,7 +1,7 @@
 class AppsController < ApplicationController
 
   def home
-    
+
   end
 
 
